@@ -1,0 +1,10 @@
+nl\parrotlync\homes\command\HomeCommand.class
+nl\parrotlync\homes\command\SetHomeCommand.class
+nl\parrotlync\homes\manager\HomeManager.class
+nl\parrotlync\homes\command\ListHomesCommand.class
+nl\parrotlync\homes\Homes.class
+nl\parrotlync\homes\command\RemoveHomeCommand.class
+nl\parrotlync\homes\model\Home.class
+nl\parrotlync\homes\listener\HomeListener.class
+nl\parrotlync\homes\util\ChatUtil.class
+nl\parrotlync\homes\util\DataUtil.class

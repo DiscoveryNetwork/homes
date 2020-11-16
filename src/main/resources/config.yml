@@ -1,0 +1,7 @@
+messages:
+  home-set: "§6Home location set"
+  bed-set: "§6Bed spawn set"
+  home-removed: "§6Home §c{home} §6has been removed"
+  home-not-exists: "§cThat home doesn't exist!"
+  teleporting: "§7Teleporting you to {home}..."
+  players-only: "§cOnly players can use this command!"

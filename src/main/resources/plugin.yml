@@ -1,0 +1,19 @@
+main: nl.parrotlync.homes.Homes
+name: Homes
+version: 1.0.0
+description: Home plugin for the Discovery Network
+api-version: 1.16
+author: ParrotLync
+commands:
+  home:
+    description: Teleport to a home
+    usage: /home <name>
+  sethome:
+    description: Set a home
+    usage: /sethome <name>
+  delhome:
+    description: Set a home
+    usage: /delhome <name>
+  homes:
+    description: List all homes
+    usage: /homes
